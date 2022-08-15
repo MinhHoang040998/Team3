@@ -1,0 +1,95 @@
+:root{
+    --bg1: #dbefe3;
+    --bg2: #4949de;
+}
+* {
+    font-family: 'Josefin', sans-serif;
+    box-sizing: border-box;
+}
+meta{
+    display: none;
+}
+html, body{
+    font-weight: 400;
+    line-height: 24px;
+    color: #100e0e;
+    background-color: #cadde7;
+    margin: 0;
+    padding: 0;
+}
+.top{
+    top:0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    background-color: #1d3c75;
+    height: 70px;
+}
+.header{
+    color: #fff;
+    background-color:transparent ;
+    max-width: 1200px;
+    margin: auto;
+}
+.logo{
+    text-align: center;
+    color: var(--bg1);
+    float: left;
+    font-size: 24px;
+    line-height: 28px;
+}
+.ms_top_trend{
+    text-align: center;
+    /*float: right;*/
+    font-size: 16px;
+    line-height: 30px;
+}
+.ms-color{
+    color: #bed1d5;
+}
+.padding-12{
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.bg-light{
+    background-color: #efefef; !important;
+}
+.shadow-md{
+    box-shadow: 0px 0px 50px -35px rgb(0 0 0 / 40%);
+}
+.p-4{
+    padding: 1.5rem !important;
+    padding-top:1.5rem !important;
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+}
+.rounded{
+    border-radius: 0.25rem !important;
+    border-top-right-radius:  0.25rem !important ;
+}
+#recharge-bill {
+    text-align: left;
+    margin: auto;
+}
+
+.form-group{
+    width: 22.9%;
+    padding: 0 8px;
+    text-align: left;
+}
+img{
+    height: auto;
+    width: auto;
+    float: none;
+}
+a{
+    margin-left: 80px;
+    color: #CDCDCD!important;
+    text-decoration: none;
+}
+/*.row:before{*/
+/*    content: "";*/
+/*    display: table;*/
+/*    clear: both;*/
+/*}*/

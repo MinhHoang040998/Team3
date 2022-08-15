@@ -1,0 +1,134 @@
+*{
+    font-family: "Raleway", sans-serif;
+    color: black;
+}
+#top{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    visibility: visible;
+    list-style-type: none;
+    overflow: hidden;
+}
+#logo{
+    float: left;
+}
+#menu{
+    font-size: 16px;
+    line-height: 50px;
+    margin-left: 280px;
+}
+.header{
+    color: #fff;
+    background-color: transparent;
+    max-width: 1200px;
+    margin: auto;
+}
+ul{
+    text-align: center;
+    display: flex;
+    margin-top: 42px;
+    list-style-type: none !important;
+}
+.icons-menu{
+    padding-left: 50px;
+}
+.icons-search{
+    float: right;
+    font-size: 25px;
+    padding-left: 30px;
+}
+ul #icons {
+    float: right;
+    position: absolute;
+    top: 0px;
+    left: 1200px;
+}
+li.icons-menu a {
+    text-decoration: none;
+}
+ul#\#icons {
+    float: right;
+    position: absolute;
+    top: 0px;
+    left: 1170px;
+}
+.sub-title{
+    color: #F5F5F5;
+}
+#title1, #title2{
+    color: #F5F5F5;
+}
+.text-list{
+    color: #F5F5F5;
+}
+#category {
+    float: left;
+    display: inline-flex;
+    padding: 32px;
+    margin: 32px;
+}
+div #free-ship {
+    padding: 20px 100px 25px 100px;
+    background-color: #f4f4f4;
+    margin-left: 80px;
+}
+div #support-onl {
+    padding: 20px 100px 25px 100px;
+    background-color: #f4f4f4;
+    margin-left: 40px;
+}
+div #money-return {
+    padding: 20px 100px 25px 100px;
+    background-color: #f4f4f4;
+    margin-left: 40px;
+}
+#logo1, #logo2, #logo3{
+    padding-left: 70px;
+    font-size: 40px;
+}
+h4{
+    font-size: 40px;
+}
+#list-sales{
+    font-size: 25px;
+    padding-left: 500px;
+}
+#sales2{
+    padding-left: 55px;
+}
+#sales3{
+    padding-left: 55px;
+}
+.card{
+    float: left;
+    text-align: center;
+}
+.card1{
+    float: left;
+    text-align: center;
+}
+#img-card{
+    padding-left: 170px;
+}
+div#img-logo-watch {
+    position: absolute;
+    padding-left: 190px;
+    padding-top: 20px;
+}
+div#img-card-list {
+    position: absolute;
+    top: 1770px;
+}
+img.img-fluid {
+    padding: 10px;
+}
+#footer {
+    padding-left: 110px;
+    position: absolute;
+    top: 2180px;
+}
+#copy-right{
+    position: absolute;
+    top: 2348px;
+    left: 1075px;
+}
